@@ -1,6 +1,6 @@
 ---
 title: "在 Pixel 手機安裝 SUICA 個人經驗紀錄"
-date: 2025-07-01T23:43:00+08:00
+date: 2025-09-13T15:20:00+08:00
 slug: ""
 description: ""
 keywords: []
