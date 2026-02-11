@@ -2,8 +2,6 @@
 title: "2024寒假日本遊第四篇：門司、下關、小倉、福岡、太宰府"
 date: 2024-02-15T21:49:00+08:00
 slug: ""
-description: ""
-keywords: []
 draft: false
 tags: [遊記,2024寒假日本]
 categories: [札記]
@@ -172,7 +170,7 @@ keywords:
 
 {{< figure src="CI129_2.jpg" width="50%"  caption="AVOD，這次旁邊是空席，所以借了他的螢幕來放Airshow">}}
 
-{{< figure src="CI129_3.jpg" width="50%"  caption="飛機餐">}}
+{{< figure src="CI129_3.jpg" width="50%"  caption="淡水河口夜景">}}
 
 接著是起飛和降落影片。
 

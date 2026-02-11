@@ -2,8 +2,6 @@
 title: "2022區間車新左營-臺北搭乘紀錄"
 date: 2024-02-16T23:10:00+08:00
 slug: ""
-description: ""
-keywords: []
 draft: false
 tags: [遊記,區間車系列]
 categories: [札記]
@@ -32,7 +30,7 @@ description: 新左營-新烏日-臺北
 
 {{< figure src="1.jpg" width="40%"  caption="新左營站">}}
 
-{{< figure src="2.jpg" width="40%"  caption="EMU400">}}
+{{< figure src="2.jpg" width="40%"  caption="EMU800">}}
 
 {{< figure src="3.jpg" width="40%"  caption="臺南站">}}
 
