@@ -14,7 +14,7 @@ keywords:
 description: 新左營-彰化-新竹-臺北
 ---
 
-上一篇：[2023區間車環島遊記（上）](https://achi-kyw.github.io/posts/2023/07/2023區間車環島遊記上/)
+上一篇：[2023區間車環島遊記（上）](https://achi-kyw.github.io/blog/posts/2023/07/2023區間車環島遊記上/)
 
 這篇是第二天(6/21)，搭的車次如下：
 

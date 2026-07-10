@@ -18,10 +18,10 @@ keywords:
 
 整個行程總共有四篇，為了內容連貫性及完整性，篇幅不會均等，主要是以地點而非日期分段。
 
-所有文章請參考標籤 [2024寒假日本](https://achi-kyw.github.io/tags/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC/)
-- [第一篇：名古屋、下呂、高山、白川鄉 Day 1-4](https://achi-kyw.github.io/posts/2024/02/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC%E9%81%8A%E7%AC%AC%E4%B8%80%E7%AF%87%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%8B%E5%91%82%E9%AB%98%E5%B1%B1%E7%99%BD%E5%B7%9D%E9%84%89/)
-- [第二篇：金澤、富山、福井 Day 4-5](https://achi-kyw.github.io/posts/2024/02/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC%E9%81%8A%E7%AC%AC%E4%BA%8C%E7%AF%87%E9%87%91%E6%BE%A4%E5%AF%8C%E5%B1%B1%E7%A6%8F%E4%BA%95/)
-- [第三篇：京都、大津、宇治、大阪 Day 6-9](https://achi-kyw.github.io/posts/2024/02/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC%E9%81%8A%E7%AC%AC%E4%B8%89%E7%AF%87%E4%BA%AC%E9%83%BD%E5%A4%A7%E6%B4%A5%E5%AE%87%E6%B2%BB%E5%A4%A7%E9%98%AA/)
+所有文章請參考標籤 [2024寒假日本](https://achi-kyw.github.io/blog/tags/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC/)
+- [第一篇：名古屋、下呂、高山、白川鄉 Day 1-4](https://achi-kyw.github.io/blog/posts/2024/02/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC%E9%81%8A%E7%AC%AC%E4%B8%80%E7%AF%87%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%8B%E5%91%82%E9%AB%98%E5%B1%B1%E7%99%BD%E5%B7%9D%E9%84%89/)
+- [第二篇：金澤、富山、福井 Day 4-5](https://achi-kyw.github.io/blog/posts/2024/02/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC%E9%81%8A%E7%AC%AC%E4%BA%8C%E7%AF%87%E9%87%91%E6%BE%A4%E5%AF%8C%E5%B1%B1%E7%A6%8F%E4%BA%95/)
+- [第三篇：京都、大津、宇治、大阪 Day 6-9](https://achi-kyw.github.io/blog/posts/2024/02/2024%E5%AF%92%E5%81%87%E6%97%A5%E6%9C%AC%E9%81%8A%E7%AC%AC%E4%B8%89%E7%AF%87%E4%BA%AC%E9%83%BD%E5%A4%A7%E6%B4%A5%E5%AE%87%E6%B2%BB%E5%A4%A7%E9%98%AA/)
 - **第四篇：門司、下關、小倉、福岡、太宰府 Day 10-11**
 
 ## 行程規劃

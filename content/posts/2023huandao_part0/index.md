@@ -16,7 +16,7 @@ description: 松山-瑞芳-八斗子-菁桐-瑞芳-臺北
 
 這篇是環島系列的前傳，加上記憶有點久遠，所以篇幅較短。
 
-系列文章請參考[這裡](https://achi-kyw.github.io/tags/%E7%92%B0%E5%B3%B6/)
+系列文章請參考[這裡](https://achi-kyw.github.io/blog/tags/%E7%92%B0%E5%B3%B6/)
 
 
 
