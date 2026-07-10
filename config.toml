@@ -1,4 +1,4 @@
-baseURL = "https://achi-kyw.github.io"
+baseURL = "https://achi-kyw.github.io/blog/"
 title   = "Achi_kyw的札記"
 languageCode = "zh-tw"
 theme = "hello-friend-ng"
