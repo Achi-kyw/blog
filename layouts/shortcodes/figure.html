@@ -1,0 +1,22 @@
+{{- $src := .Get "src" -}}
+{{- $img := .Page.Resources.Get $src -}}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  {{- if and $img (ne $img.MediaType.SubType "gif") (ne $img.MediaType.SubType "svg") -}}
+    {{- $w := $img.Width -}}
+    {{- $small := $img.Resize (printf "%dx webp q80" (cond (gt $w 1600) 1600 $w)) -}}
+    <a href="{{ $img.RelPermalink }}" target="_blank" rel="noopener">
+      <img src="{{ $small.RelPermalink }}"
+        width="{{ $small.Width }}" height="{{ $small.Height }}"
+        loading="lazy" decoding="async"
+        {{- with .Get "width" }} style="width: {{ . }}; height: auto;"{{ end }}
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | plainify }}{{ end }}">
+    </a>
+  {{- else -}}
+    <img src="{{ $src | safeURL }}" loading="lazy" decoding="async"
+      {{- with .Get "width" }} style="width: {{ . }}; height: auto;"{{ end }}
+      alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | plainify }}{{ end }}">
+  {{- end -}}
+  {{- with .Get "caption" -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

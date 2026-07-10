@@ -1,0 +1,14 @@
+{{- $img := .Page.Resources.Get .Destination -}}
+{{- if and $img (ne $img.MediaType.SubType "gif") (ne $img.MediaType.SubType "svg") -}}
+  {{- $w := $img.Width -}}
+  {{- $small := $img.Resize (printf "%dx webp q80" (cond (gt $w 1600) 1600 $w)) -}}
+  <a href="{{ $img.RelPermalink }}" target="_blank" rel="noopener">
+    <img src="{{ $small.RelPermalink }}"
+      width="{{ $small.Width }}" height="{{ $small.Height }}"
+      loading="lazy" decoding="async"
+      alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+  </a>
+{{- else -}}
+  <img src="{{ .Destination | safeURL }}" loading="lazy" decoding="async"
+    alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- end -}}
