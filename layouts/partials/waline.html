@@ -1,0 +1,17 @@
+{{- with .Site.Params.waline.serverURL -}}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@waline/client@v3/dist/waline.css" />
+<div id="waline"></div>
+<script type="module">
+  import { init } from 'https://cdn.jsdelivr.net/npm/@waline/client@v3/dist/waline.js';
+
+  init({
+    el: '#waline',
+    serverURL: '{{ . }}',
+    path: '{{ (urls.Parse $.Permalink).Path }}',
+    lang: 'zh-TW',
+    dark: 'auto',
+    reaction: true,
+    requiredMeta: [],
+  });
+</script>
+{{- end -}}

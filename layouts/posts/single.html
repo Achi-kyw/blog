@@ -122,10 +122,10 @@
 
     {{ partial "pagination-single.html" . }}
 
-    {{ if .Site.Config.Services.Disqus.Shortname }}
+    {{ if .Site.Params.waline.serverURL }}
       {{ if not (eq .Params.Comments "false") }}
         <div id="comments">
-          {{ partial "disqus.html" . }}
+          {{ partial "waline.html" . }}
         </div>
       {{ end }}
     {{ end }}

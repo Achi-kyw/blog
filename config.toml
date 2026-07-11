@@ -11,7 +11,8 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 googleAnalytics = "G-QRMWMZ87JM"
-disqusShortname = "achi-kyw"
+# 已改用 Waline 留言(見 [params.waline]),Disqus 停用
+# disqusShortname = "achi-kyw"
 hasCJKLanguage = true
 
 archetypeDir = "archetypes"
@@ -166,6 +167,11 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "discord"
     url  = "https://discord.com/users/614327736583979013"
+
+  # Waline 留言系統:部署好 Vercel 後把網址填進 serverURL(例如 https://xxx.vercel.app)
+  # 留空 = 不顯示留言區
+  [params.waline]
+    serverURL = "https://vercel-nu-six-84.vercel.app"
 
 [languages]
   [languages.zh-tw]
