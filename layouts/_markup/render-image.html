@@ -6,6 +6,7 @@
     <img src="{{ $small.RelPermalink }}"
       width="{{ $small.Width }}" height="{{ $small.Height }}"
       loading="lazy" decoding="async"
+      style="max-width: 100%; height: auto;"
       alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>
   </a>
 {{- else -}}
