@@ -3,8 +3,8 @@ title: "2024寒假日本遊第三篇：京都、大津、宇治、大阪"
 date: 2024-02-15T15:47:00+08:00
 slug: ""
 draft: false
-tags: [遊記,2024寒假日本]
-categories: [札記]
+tags: [日本,2024寒假日本]
+categories: [遊記]
 math: true
 toc: false
 katex: true

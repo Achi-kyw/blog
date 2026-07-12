@@ -3,8 +3,8 @@ title: "在 Pixel 手機安裝 SUICA 個人經驗紀錄"
 date: 2025-09-13T15:20:00+08:00
 slug: ""
 draft: false
-tags: [手機]
-categories: [札記]
+tags: [手機,日本]
+categories: [筆記]
 math: true
 toc: false
 katex: true

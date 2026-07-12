@@ -3,8 +3,8 @@ title: "2023區間車環島遊記（上）"
 date: 2023-07-25T10:54:50+08:00
 slug: ""
 draft: false
-tags: [遊記,區間車系列,環島]
-categories: [札記]
+tags: [臺灣,區間車系列,環島]
+categories: [遊記]
 math: true
 toc: false
 katex: true

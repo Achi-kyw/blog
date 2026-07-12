@@ -3,8 +3,8 @@ title: "2024寒假日本遊第二篇：金澤、富山、福井"
 date: 2024-02-04T22:32:00+08:00
 slug: ""
 draft: false
-tags: [遊記,2024寒假日本]
-categories: [札記]
+tags: [日本,2024寒假日本]
+categories: [遊記]
 math: true
 toc: false
 katex: true

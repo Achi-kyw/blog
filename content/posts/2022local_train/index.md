@@ -3,8 +3,8 @@ title: "2022區間車新左營-臺北搭乘紀錄"
 date: 2024-02-16T23:10:00+08:00
 slug: ""
 draft: false
-tags: [遊記,區間車系列]
-categories: [札記]
+tags: [臺灣,區間車系列]
+categories: [遊記]
 math: true
 toc: false
 katex: true

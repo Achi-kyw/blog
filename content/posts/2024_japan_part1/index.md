@@ -3,8 +3,8 @@ title: "2024寒假日本遊第一篇：名古屋、下呂、高山、白川鄉"
 date: 2024-02-01T00:10:00+08:00
 slug: ""
 draft: false
-tags: [遊記,2024寒假日本]
-categories: [札記]
+tags: [日本,2024寒假日本]
+categories: [遊記]
 math: true
 toc: false
 katex: true

@@ -3,8 +3,8 @@ title: "台大資工 113 學年度第一學期修課回顧"
 date: 2025-01-22T22:50:00+08:00
 slug: ""
 draft: false
-tags: [修課心得]
-categories: [札記]
+tags: [大三]
+categories: [修課心得]
 math: true
 toc: false
 katex: true

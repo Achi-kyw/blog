@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "一個廢物想變強"
+  homeSubtitle = "個人網誌"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -175,7 +175,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.zh-tw]
-    #subtitle  = "一個廢物想變強"
+    #subtitle  = "個人網誌"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   

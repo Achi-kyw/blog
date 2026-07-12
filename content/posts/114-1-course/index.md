@@ -3,8 +3,8 @@ title: "台大資工 114 學年度第一學期修課回顧"
 date: 2026-02-11T22:23:00+08:00
 slug: ""
 draft: false
-tags: [修課心得]
-categories: [札記]
+tags: [大四]
+categories: [修課心得]
 math: true
 toc: false
 katex: true
