@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirectTo }}">
+  <link rel="canonical" href="{{ .Params.redirectTo }}">
+  <title>Redirecting…</title>
+</head>
+<body>
+  <p>此頁已搬家:<a href="{{ .Params.redirectTo }}">{{ .Params.redirectTo }}</a></p>
+  <script>location.replace('{{ .Params.redirectTo }}');</script>
+</body>
+</html>

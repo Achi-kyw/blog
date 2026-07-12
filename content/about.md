@@ -1,16 +1,5 @@
 +++
-title = "關於我"
-date = "2025-09-13"
-[ author ]
-  name = "Achi-kyw"
+title = "About"
+layout = "redirect"
+redirectTo = "https://achi-kyw.github.io/"
 +++
-
-## 關於Achi_kyw
-
-大家好，我是`Achi_kyw`，現在正在尋找生存的意義，有點漂泊不定，希望有一天能找到出口。
-
-常用ID是`Achi_kyw`，官方提供的標準念法是[ɑtʃikju]，不過已經存在各種念法了。`A`大多數情況下是大寫，少數情況小寫。不過github還有hackmd不給用底線，所以改成`achi-kyw`
-
-## 關於這個網站
-
-會把一些自己的筆記放上來或在這裡紀錄一些事情。
